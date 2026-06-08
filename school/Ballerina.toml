@@ -1,5 +1,5 @@
 [package]
-org = "devant"
-name = "Sample"
+org = "testorg"
+name = "school"
 version = "1.0.0"
 distribution = "2201.13.4"
